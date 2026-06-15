@@ -85,7 +85,7 @@ Open PowerShell / Terminal:
 
 ```bash
 git clone https://github.com/atharva-paik/GradeOps.git
-cd gradeops-cc
+cd GradeOps
 ```
 
 You can clone the project anywhere on your system.
